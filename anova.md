@@ -30,7 +30,7 @@ In the case of assumptions for ANOVA,
       - Note: If there are departures from Normality in your analysis,
         you should note those departures when assessing the assumptions.
         If the sample sizes are relative large within each group
-        (approx. greater than 30), then you can note the robustness of
+        (approx. greater than 10), then you can note the robustness of
         the ANOVA.
 
   - **Independence**: ANOVA is <u>not</u> robust against violations of
